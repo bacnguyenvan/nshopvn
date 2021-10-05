@@ -1,0 +1,4 @@
+link web: http://localhost/nshopvn.com/
+
+link trang admin : http://localhost/nshopvn.com/admin/   ( thêm sản phẩm ) 
+dang nhap trang admin : username : admin , password : admin
