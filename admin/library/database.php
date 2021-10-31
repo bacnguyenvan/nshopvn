@@ -7,7 +7,7 @@
 
 		public function __construct()
 		{
-			$this->connect=mysqli_connect('localhost','root','','nshopvn') or die('connect fail');	
+			$this->connect=mysqli_connect('localhost','root','nshopvn_pass','nshopvn') or die('connect fail');	
 		
 			mysqli_set_charset($this->connect,'utf8');
 		}
